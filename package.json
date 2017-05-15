@@ -1,0 +1,31 @@
+{
+  "name": "action-comment-loader",
+  "version": "0.0.1",
+  "description": "Action comment for Webpack2",
+  "keywords": [
+    "webpack",
+    "loader",
+    "webpack-loader",
+    "action-comment"
+  ],
+  "main": "index.js",
+  "author": "Philippe Assis <assis@philippeassis.com>",
+  "license": "MIT",
+  "dependencies": {
+    "action-comment": "0.0.4",
+    "loader-utils": "^1.1.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippeAssis/action-comment-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PhilippeAssis/action-comment-loader/issues"
+  },
+  "homepage": "https://github.com/PhilippeAssis/action-comment-loader#readme"
+}
